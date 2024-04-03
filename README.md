@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kehmario
 - 👀 I’m interested in ...Embedded Systems development
-- 🌱 I’m currently learning ... GCC
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Verilog/SystemVerilog
+- 💞️ I’m looking to collaborate on ... Parallel Computation projects
 - 📫 How to reach me ... keh.mario@gmail.com
 
 <!---
